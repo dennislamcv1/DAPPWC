@@ -1,4 +1,4 @@
-﻿AircraftID,AircraftType,SeatCapacity,FuelCostperSeatMile (Cents)
+AircraftID,AircraftType,SeatCapacity,FuelCostperSeatMile (Cents)
 1,B737,185,2.08
 2,B737,185,2.08
 3,B737,185,2.08
